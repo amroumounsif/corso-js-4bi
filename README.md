@@ -101,4 +101,6 @@ typescript
 L'operatore ! permette di dichiarare una variabile senza assegnarle subito un valore. Questo è utile quando si vuole indicare che la variabile verrà inizializzata più avanti nel codice, evitando errori di "non assegnazione".
 
 meccanisco del cash del browser.
+codici di riposta delle richieste http
+
 
