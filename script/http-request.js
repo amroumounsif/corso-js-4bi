@@ -26,7 +26,7 @@ async function getAereoporti2(){
 
 
 function createTable(dai){
-
+    
 }
 
 function createTableHeader(){
