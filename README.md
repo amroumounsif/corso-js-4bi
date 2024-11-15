@@ -103,4 +103,6 @@ L'operatore ! permette di dichiarare una variabile senza assegnarle subito un va
 meccanisco del cash del browser.
 codici di riposta delle richieste http
 
+localstorage del browser.
+
 
